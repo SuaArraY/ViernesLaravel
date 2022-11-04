@@ -10,6 +10,7 @@
         }
         body{
             margin: 0;
+            padding: 0;
             background-color: #efefef;
         }
         header{
@@ -40,6 +41,15 @@
         section article:hover{
             box-shadow: 0 0.1rem 0.4rem rgba(0,0,0,0.3);
         }
+        .footer{
+            width: 100%;
+            height: 3rem;
+            position: center;
+            background-color: #404258;
+        }
+        .footer p{
+            color: white;
+        }
         
     </style>
     <title>Document</title>
@@ -69,5 +79,10 @@
             <p></p>
         </article>
     </section>
+    <footer class="flex justify-center sm:justify-center footer
+                 sm:pt-0">
+            <p>© Suarez Arratea Yossec Yosefer</p>
+    </footer>
 </body>
+
 </html>

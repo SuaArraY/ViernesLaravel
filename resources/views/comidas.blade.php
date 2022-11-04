@@ -47,6 +47,15 @@
           margin: 0 auto;
           position: center;
         }
+        .footer{
+            width: 100%;
+            height: 3rem;
+            position: center;
+            background-color: #404258;
+        }
+        .footer p{
+            color: white;
+        }
     </style>
 <title>Document</title>
 </head>
@@ -92,6 +101,10 @@
             
         </article>
     </section>
+    <footer class="flex justify-center sm:justify-center footer
+                 sm:pt-0">
+            <p>© Suarez Arratea Yossec Yosefer</p>
+    </footer>
 </body>
 <!-- JavaScript Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
