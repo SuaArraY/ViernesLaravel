@@ -7,17 +7,40 @@
     <!-- CSS only -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <style>
-        html {
-            box-sizing: border-box;
-            overflow: -moz-scrollbars-vertical;
-            overflow-y: scroll;
+        html{
+            font-family:arial ; 
         }
-        .cuerpo{
-            width: 100%;
-            padding: 1rem;
-            margin: 5rem;
-            position:center;
-            background-color: #404258 ;
+        body{
+            margin: 0;
+            background-color: #efefef;
+        }
+        header{
+            
+            color: white;
+            padding: 3rem 2rem;
+        }
+        h1{
+            font-size: 2.5rem;
+            text-align: center;
+        }
+        .container{
+            width: 400px;
+            margin: 0 auto;
+
+        }
+        section article{
+            transition: all 0.3s ease;
+            background-color: #ffffff;
+            margin: 1rem 0;
+            border-radius: 0.5rem;
+            padding: 0.25rem 0;
+            cursor: pointer;
+        }
+        section article h2, section article p{
+            margin: 1.5rem ;
+        }
+        section article:hover{
+            box-shadow: 0 0.1rem 0.4rem rgba(0,0,0,0.3);
         }
     </style>
 <title>Document</title>
@@ -53,7 +76,7 @@
 
     </header>
 
-    <section class=cuerpo>
+    <section class=container>
         
         <article class="post">
             <h2>Pachamanca</h2>
