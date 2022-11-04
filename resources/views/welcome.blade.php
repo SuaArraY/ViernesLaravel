@@ -17,13 +17,24 @@
 
         <style>
             body {
+                margin:0;
+                position:0;
                 font-family: 'Nunito', sans-serif;
             }
             .title{
+                font-size: 36px;
+                
+                margin-bottom: 0px;
                 color:#3F3B6C;
                 font: bold;
                 transition: background-color .5s;
                 
+            }
+            .linea{
+                margin-top: 0px;
+                width: 30%;
+                color: #AC7088;
+                border: solid;
             }
             .title:hover{
                 color:#AC7088;
@@ -55,9 +66,8 @@
                     
                  <h1 class=title><a href="https://github.com/SuaArraY/ViernesLaravel.git" target="_blank" >YOSSEC 😎</a></h1> 
                 
-                    
                 </div>
-                
+                <hr class=linea>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
