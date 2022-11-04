@@ -54,10 +54,11 @@
             background-color: #404258;
         }
         .footer p{
+          padding: 1rem;
             color: white;
         }
     </style>
-<title>Document</title>
+<title>Comida</title>
 </head>
 <body>
     
