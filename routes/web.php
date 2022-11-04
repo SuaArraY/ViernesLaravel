@@ -17,9 +17,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/historia', function () {
-    return view('historia');
-});
+// Route::get('/historia', function () {
+//     return view('historia');
+// });
 
 Route::get('/comidas', function () {
     return view('comidas');

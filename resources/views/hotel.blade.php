@@ -15,7 +15,7 @@
         header{
             background-color: #3F3B6C;
             color: white;
-            padding: 3rem 2rem;
+            padding: 1rem 2rem;
         }
         h1{
             font-size: 2.5rem;
