@@ -13,7 +13,7 @@
             background-color: #efefef;
         }
         header{
-            background-color: #3F3B6C;
+            background-color: #3C4048;
             color: white;
             padding: 1rem 2rem;
         }
@@ -46,7 +46,7 @@
 </head>
 <body>
     <header>
-        <h1>Hoteles</h1>
+        <h1>Hoteles 🏦</h1>
     </header>
     <section class=container>
         

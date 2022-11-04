@@ -104,7 +104,7 @@
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-t-0 md:border-l" class=imagen>
                             <div class="flex items-center">
                                
-                                <div class=subtitle><a href="https://www.reservationstays.com/requests/H7vPWdLL5wNzkRBb_rB3ZQ/hotels/rW5LpnGg?expand_params=true "  target="_blank ">🏦 Hospedaje</a></div>
+                                <div class=subtitle><a href="hotel "  target="_blank ">🏦 Hospedaje</a></div>
                             </div>
 
                             <div class="ml-12">
@@ -130,7 +130,7 @@
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
                             <div class="flex items-center">
                                 
-                                <div class=subtitle><a href="https://comidascriolla.com/comidas/" target="_blank" >🍱 Comidas</div>
+                                <div class=subtitle><a href="comidas" target="_blank" >🍱 Comidas</div>
                             </div>
 
                             <div class="ml-12">
