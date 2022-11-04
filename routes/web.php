@@ -21,3 +21,12 @@ Route::get('/historia', function () {
     return view('historia');
 });
 
+Route::get('/comidas', function () {
+    return view('comidas');
+});
+
+Route::get('/hotel', function () {
+    return view('hotel');
+});
+
+
