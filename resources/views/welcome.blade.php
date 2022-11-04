@@ -49,10 +49,14 @@
                         </g>
                     </svg> -->
                     
-                    <h1 style="color: #eeeeee; background-color:#3F3B6C "><a href="https://github.com/SuaArraY/ViernesLaravel.git" target="_blank" rel="noopener noreferrer">YOSSEC 😎</a></h1>
-    
+                    <div>
+                        <h1 style="color:#3F3B6C "><a href="https://github.com/SuaArraY/ViernesLaravel.git" target="_blank" >YOSSEC 😎</a></h1>
+                        <hr style="color:#ffffff; position:center ">
+                    </div>
+                    
+                    
                 </div>
-                <hr style="color:#ffffff; position:center ">
+                
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
